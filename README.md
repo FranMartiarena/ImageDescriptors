@@ -1,2 +1,2 @@
-# VisualDescriptors
-This is a compilation of visual descriptors.
+# Image Descriptors
+My implementation of some Image Description techniques.
